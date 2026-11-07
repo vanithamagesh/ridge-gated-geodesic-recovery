@@ -1,0 +1,37 @@
+Dataset,Network,Recalibration (fitted on 4 DRIVE validation images),ECE on test,Dice,TCR,Frag
+DRIVE,U-Net,none (published rule),0.0119,0.8257,0.6994,63.5
+DRIVE,U-Net,histogram binning (15 bins),0.0129,0.8256,0.7034,61.9
+DRIVE,U-Net,isotonic regression,0.0115,0.8256,0.7037,61.8
+DRIVE,Attention U-Net,none (published rule),0.0119,0.8266,0.6998,58.2
+DRIVE,Attention U-Net,histogram binning (15 bins),0.0134,0.8266,0.7044,56.0
+DRIVE,Attention U-Net,isotonic regression,0.0124,0.8266,0.7044,56.2
+DRIVE,U-Net++,none (published rule),0.0125,0.8276,0.7043,47.9
+DRIVE,U-Net++,histogram binning (15 bins),0.0135,0.8277,0.7078,46.7
+DRIVE,U-Net++,isotonic regression,0.0121,0.8276,0.7075,46.6
+CHASE_DB1,U-Net,none (published rule),0.0135,0.8071,0.7126,57.9
+CHASE_DB1,U-Net,histogram binning (15 bins),0.0222,0.8046,0.7273,52.1
+CHASE_DB1,U-Net,isotonic regression,0.0162,0.8053,0.7234,54.0
+CHASE_DB1,Attention U-Net,none (published rule),0.0130,0.8092,0.6960,60.8
+CHASE_DB1,Attention U-Net,histogram binning (15 bins),0.0204,0.8067,0.7129,54.1
+CHASE_DB1,Attention U-Net,isotonic regression,0.0140,0.8076,0.7086,56.0
+CHASE_DB1,U-Net++,none (published rule),0.0126,0.8093,0.7135,55.8
+CHASE_DB1,U-Net++,histogram binning (15 bins),0.0193,0.8071,0.7283,51.5
+CHASE_DB1,U-Net++,isotonic regression,0.0124,0.8086,0.7201,53.6
+STARE,U-Net,none (published rule),0.0091,0.8439,0.7915,56.9
+STARE,U-Net,histogram binning (15 bins),0.0170,0.8443,0.8043,50.2
+STARE,U-Net,isotonic regression,0.0079,0.8440,0.7933,56.0
+STARE,Attention U-Net,none (published rule),0.0086,0.8483,0.8028,51.9
+STARE,Attention U-Net,histogram binning (15 bins),0.0174,0.8481,0.8134,46.1
+STARE,Attention U-Net,isotonic regression,0.0075,0.8483,0.8057,49.5
+STARE,U-Net++,none (published rule),0.0091,0.8512,0.8053,40.0
+STARE,U-Net++,histogram binning (15 bins),0.0182,0.8514,0.8114,36.4
+STARE,U-Net++,isotonic regression,0.0076,0.8508,0.8007,44.1
+FIVES,U-Net,none (published rule),0.0165,0.8255,0.7769,339.8
+FIVES,U-Net,histogram binning (15 bins),0.0269,0.8211,0.7880,330.4
+FIVES,U-Net,isotonic regression,0.0414,0.8193,0.7959,326.1
+FIVES,Attention U-Net,none (published rule),0.0156,0.8373,0.7902,306.1
+FIVES,Attention U-Net,histogram binning (15 bins),0.0270,0.8340,0.7990,299.6
+FIVES,Attention U-Net,isotonic regression,0.0417,0.8310,0.8062,295.2
+FIVES,U-Net++,none (published rule),0.0074,0.8316,0.7354,269.3
+FIVES,U-Net++,histogram binning (15 bins),0.0203,0.8290,0.7466,262.9
+FIVES,U-Net++,isotonic regression,0.0343,0.8284,0.7550,258.9

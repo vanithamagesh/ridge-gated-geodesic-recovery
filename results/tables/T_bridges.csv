@@ -1,0 +1,111 @@
+Dataset,Variant,Context,Bridges,Correct,Correct (%),Shortcut,Offset,Unannotated,Unannotated on observer-2 vessel
+DRIVE,RGR,all bridges,742,604,81.4,2,6,130,-
+DRIVE,RGR,near a junction or crossing,203,202,99.5,0,1,0,-
+DRIVE,RGR,closely adjacent vessels,45,38,84.4,2,0,5,-
+DRIVE,RGR,optic-disc region,91,62,68.1,0,0,29,-
+DRIVE,RGR,none of these,448,346,77.2,0,5,97,-
+DRIVE,Conservative-gate RGR,all bridges,594,489,82.3,0,6,99,-
+DRIVE,Conservative-gate RGR,near a junction or crossing,130,130,100.0,0,0,0,-
+DRIVE,Conservative-gate RGR,closely adjacent vessels,33,30,90.9,0,0,3,-
+DRIVE,Conservative-gate RGR,optic-disc region,60,41,68.3,0,0,19,-
+DRIVE,Conservative-gate RGR,none of these,401,317,79.1,0,6,78,-
+DRIVE,RGR-P,all bridges,2596,2042,78.7,33,30,491,-
+DRIVE,RGR-P,near a junction or crossing,1050,998,95.0,3,8,41,-
+DRIVE,RGR-P,closely adjacent vessels,197,136,69.0,33,3,25,-
+DRIVE,RGR-P,optic-disc region,246,150,61.0,12,4,80,-
+DRIVE,RGR-P,none of these,1290,907,70.3,0,18,365,-
+DRIVE,"RGR-P, setting re-selected per run",all bridges,2698,2103,77.9,47,30,518,-
+DRIVE,"RGR-P, setting re-selected per run",near a junction or crossing,1111,1050,94.5,5,8,48,-
+DRIVE,"RGR-P, setting re-selected per run",closely adjacent vessels,216,140,64.8,47,3,26,-
+DRIVE,"RGR-P, setting re-selected per run",optic-disc region,266,155,58.3,16,4,91,-
+DRIVE,"RGR-P, setting re-selected per run",none of these,1310,915,69.8,0,18,377,-
+DRIVE,"RGR-P, recall-oriented",all bridges,3014,2174,72.1,189,40,611,-
+DRIVE,"RGR-P, recall-oriented",near a junction or crossing,1313,1203,91.6,28,13,69,-
+DRIVE,"RGR-P, recall-oriented",closely adjacent vessels,435,191,43.9,189,10,45,-
+DRIVE,"RGR-P, recall-oriented",optic-disc region,329,162,49.2,49,5,113,-
+DRIVE,"RGR-P, recall-oriented",none of these,1260,820,65.1,0,20,420,-
+CHASE_DB1,RGR,all bridges,455,341,74.9,2,9,103,26/103
+CHASE_DB1,RGR,near a junction or crossing,118,115,97.5,0,1,2,2/2
+CHASE_DB1,RGR,closely adjacent vessels,31,20,64.5,2,0,9,5/9
+CHASE_DB1,RGR,optic-disc region,92,63,68.5,1,3,25,4/25
+CHASE_DB1,RGR,none of these,262,182,69.5,0,5,75,20/75
+CHASE_DB1,Conservative-gate RGR,all bridges,300,214,71.3,2,4,80,20/80
+CHASE_DB1,Conservative-gate RGR,near a junction or crossing,59,57,96.6,0,1,1,1/1
+CHASE_DB1,Conservative-gate RGR,closely adjacent vessels,13,9,69.2,2,0,2,1/2
+CHASE_DB1,Conservative-gate RGR,optic-disc region,58,38,65.5,1,3,16,2/16
+CHASE_DB1,Conservative-gate RGR,none of these,195,132,67.7,0,0,63,17/63
+CHASE_DB1,RGR-P,all bridges,797,566,71.0,13,12,206,62/206
+CHASE_DB1,RGR-P,near a junction or crossing,215,208,96.7,2,2,3,3/3
+CHASE_DB1,RGR-P,closely adjacent vessels,61,30,49.2,13,1,17,6/17
+CHASE_DB1,RGR-P,optic-disc region,140,93,66.4,2,5,40,6/40
+CHASE_DB1,RGR-P,none of these,469,308,65.7,0,5,156,52/156
+CHASE_DB1,"RGR-P, setting re-selected per run",all bridges,877,604,68.9,26,14,233,71/233
+CHASE_DB1,"RGR-P, setting re-selected per run",near a junction or crossing,252,236,93.7,6,4,6,5/6
+CHASE_DB1,"RGR-P, setting re-selected per run",closely adjacent vessels,79,29,36.7,26,1,23,8/23
+CHASE_DB1,"RGR-P, setting re-selected per run",optic-disc region,152,96,63.2,5,7,44,9/44
+CHASE_DB1,"RGR-P, setting re-selected per run",none of these,496,318,64.1,0,4,174,56/174
+CHASE_DB1,"RGR-P, recall-oriented",all bridges,1126,721,64.0,78,22,305,74/305
+CHASE_DB1,"RGR-P, recall-oriented",near a junction or crossing,352,327,92.9,8,6,11,7/11
+CHASE_DB1,"RGR-P, recall-oriented",closely adjacent vessels,166,52,31.3,78,5,31,6/31
+CHASE_DB1,"RGR-P, recall-oriented",optic-disc region,198,119,60.1,18,9,52,9/52
+CHASE_DB1,"RGR-P, recall-oriented",none of these,563,327,58.1,0,6,230,59/230
+STARE,RGR,all bridges,621,526,84.7,2,1,92,85/92
+STARE,RGR,near a junction or crossing,181,180,99.4,1,0,0,-
+STARE,RGR,closely adjacent vessels,33,28,84.8,2,0,3,3/3
+STARE,RGR,optic-disc region,46,36,78.3,1,0,9,8/9
+STARE,RGR,images with pathology,46,32,69.6,0,0,14,8/14
+STARE,RGR,none of these,386,305,79.0,0,1,80,74/80
+STARE,Conservative-gate RGR,all bridges,382,328,85.9,0,0,54,49/54
+STARE,Conservative-gate RGR,near a junction or crossing,89,89,100.0,0,0,0,-
+STARE,Conservative-gate RGR,closely adjacent vessels,13,11,84.6,0,0,2,2/2
+STARE,Conservative-gate RGR,optic-disc region,24,19,79.2,0,0,5,5/5
+STARE,Conservative-gate RGR,images with pathology,40,27,67.5,0,0,13,8/13
+STARE,Conservative-gate RGR,none of these,265,218,82.3,0,0,47,42/47
+STARE,RGR-P,all bridges,1101,860,78.1,11,6,224,198/224
+STARE,RGR-P,near a junction or crossing,367,355,96.7,4,2,6,6/6
+STARE,RGR-P,closely adjacent vessels,47,33,70.2,11,0,3,3/3
+STARE,RGR-P,optic-disc region,92,72,78.3,4,0,16,15/16
+STARE,RGR-P,images with pathology,196,140,71.4,0,1,55,44/55
+STARE,RGR-P,none of these,656,452,68.9,0,4,200,175/200
+STARE,"RGR-P, setting re-selected per run",all bridges,1163,899,77.3,16,6,242,212/242
+STARE,"RGR-P, setting re-selected per run",near a junction or crossing,405,393,97.0,4,2,6,6/6
+STARE,"RGR-P, setting re-selected per run",closely adjacent vessels,56,37,66.1,16,0,3,3/3
+STARE,"RGR-P, setting re-selected per run",optic-disc region,100,76,76.0,6,0,18,17/18
+STARE,"RGR-P, setting re-selected per run",images with pathology,209,147,70.3,1,1,60,46/60
+STARE,"RGR-P, setting re-selected per run",none of these,673,453,67.3,0,4,216,187/216
+STARE,"RGR-P, recall-oriented",all bridges,1373,976,71.1,74,8,315,257/315
+STARE,"RGR-P, recall-oriented",near a junction or crossing,523,505,96.6,3,3,12,11/12
+STARE,"RGR-P, recall-oriented",closely adjacent vessels,150,60,40.0,74,3,13,11/13
+STARE,"RGR-P, recall-oriented",optic-disc region,123,84,68.3,17,0,22,20/22
+STARE,"RGR-P, recall-oriented",images with pathology,268,167,62.3,17,0,84,58/84
+STARE,"RGR-P, recall-oriented",none of these,684,409,59.8,0,3,272,218/272
+FIVES,RGR,all bridges,4563,2208,48.4,16,110,2229,-
+FIVES,RGR,near a junction or crossing,1223,1031,84.3,3,24,165,-
+FIVES,RGR,closely adjacent vessels,430,217,50.5,16,18,179,-
+FIVES,RGR,optic-disc region,798,422,52.9,9,23,344,-
+FIVES,RGR,images with pathology,2949,1671,56.7,8,50,1220,-
+FIVES,RGR,none of these,2716,923,34.0,0,63,1730,-
+FIVES,Conservative-gate RGR,all bridges,3778,1795,47.5,10,74,1899,-
+FIVES,Conservative-gate RGR,near a junction or crossing,801,690,86.1,3,15,93,-
+FIVES,Conservative-gate RGR,closely adjacent vessels,269,147,54.6,10,8,104,-
+FIVES,Conservative-gate RGR,optic-disc region,669,357,53.4,3,16,293,-
+FIVES,Conservative-gate RGR,images with pathology,2374,1319,55.6,3,37,1015,-
+FIVES,Conservative-gate RGR,none of these,2422,866,35.8,0,43,1513,-
+FIVES,RGR-P,all bridges,14212,4384,30.8,112,236,9480,-
+FIVES,RGR-P,near a junction or crossing,2499,1990,79.6,26,47,436,-
+FIVES,RGR-P,closely adjacent vessels,845,344,40.7,112,36,353,-
+FIVES,RGR-P,optic-disc region,1228,616,50.2,59,48,505,-
+FIVES,RGR-P,images with pathology,10282,3186,31.0,63,126,6907,-
+FIVES,RGR-P,none of these,10662,2036,19.1,0,138,8488,-
+FIVES,"RGR-P, setting re-selected per run",all bridges,14771,4573,31.0,168,232,9798,-
+FIVES,"RGR-P, setting re-selected per run",near a junction or crossing,2724,2148,78.9,41,49,486,-
+FIVES,"RGR-P, setting re-selected per run",closely adjacent vessels,938,352,37.5,168,39,379,-
+FIVES,"RGR-P, setting re-selected per run",optic-disc region,1267,623,49.2,80,46,518,-
+FIVES,"RGR-P, setting re-selected per run",images with pathology,10704,3332,31.1,97,122,7153,-
+FIVES,"RGR-P, setting re-selected per run",none of these,10943,2067,18.9,0,133,8743,-
+FIVES,"RGR-P, recall-oriented",all bridges,17132,4993,29.1,632,209,11298,-
+FIVES,"RGR-P, recall-oriented",near a junction or crossing,3823,2654,69.4,189,55,925,-
+FIVES,"RGR-P, recall-oriented",closely adjacent vessels,1855,521,28.1,632,52,650,-
+FIVES,"RGR-P, recall-oriented",optic-disc region,1477,653,44.2,183,40,601,-
+FIVES,"RGR-P, recall-oriented",images with pathology,12472,3670,29.4,443,114,8245,-
+FIVES,"RGR-P, recall-oriented",none of these,11775,1971,16.7,0,107,9697,-

@@ -1,0 +1,25 @@
+Dataset,Network,Variant,Images,Direction right,Predicted rise,Observed rise,Largest Dice error when wrong (pp),Bias of est. Dice (pp),Bias of est. precision (pp)
+DRIVE,U-Net,RGR,20,10,0,10,0.38,+4.6,-3.4
+DRIVE,U-Net,Conservative-gate RGR,20,12,20,12,0.11,+4.6,-0.5
+DRIVE,Attention U-Net,RGR,20,11,0,9,0.41,+4.6,-2.8
+DRIVE,Attention U-Net,Conservative-gate RGR,20,12,20,12,0.11,+4.6,+0.2
+DRIVE,U-Net++,RGR,20,10,0,10,0.30,+4.8,-2.6
+DRIVE,U-Net++,Conservative-gate RGR,20,12,20,12,0.11,+4.8,+0.2
+CHASE_DB1,U-Net,RGR,8,8,0,0,-,+6.5,+5.1
+CHASE_DB1,U-Net,Conservative-gate RGR,8,2,8,2,0.43,+6.5,+8.6
+CHASE_DB1,Attention U-Net,RGR,8,7,0,1,0.15,+6.6,+4.0
+CHASE_DB1,Attention U-Net,Conservative-gate RGR,8,2,8,2,0.27,+6.6,+7.0
+CHASE_DB1,U-Net++,RGR,8,7,0,1,0.20,+6.5,+3.6
+CHASE_DB1,U-Net++,Conservative-gate RGR,8,3,8,3,0.29,+6.5,+6.5
+STARE,U-Net,RGR,10,3,0,7,0.91,+4.6,-10.3
+STARE,U-Net,Conservative-gate RGR,10,8,10,8,0.07,+4.6,-8.3
+STARE,Attention U-Net,RGR,10,5,0,5,0.79,+4.5,-3.4
+STARE,Attention U-Net,Conservative-gate RGR,10,6,10,6,0.23,+4.5,+0.2
+STARE,U-Net++,RGR,10,3,0,7,0.75,+4.6,-8.6
+STARE,U-Net++,Conservative-gate RGR,10,8,10,8,0.17,+4.6,-6.6
+FIVES,U-Net,RGR,40,28,7,9,4.83,+0.3,+3.4
+FIVES,U-Net,Conservative-gate RGR,40,13,40,13,6.81,+0.3,+4.9
+FIVES,Attention U-Net,RGR,40,33,4,5,6.30,+0.7,+4.5
+FIVES,Attention U-Net,Conservative-gate RGR,40,12,40,12,9.29,+0.7,+6.4
+FIVES,U-Net++,RGR,40,20,5,17,3.70,+1.8,-3.6
+FIVES,U-Net++,Conservative-gate RGR,40,25,40,25,3.90,+1.8,-1.9
