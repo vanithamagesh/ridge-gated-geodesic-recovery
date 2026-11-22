@@ -1,0 +1,7 @@
+torch>=2.0
+numpy
+scipy
+scikit-image>=0.19
+opencv-python-headless
+pillow
+matplotlib
