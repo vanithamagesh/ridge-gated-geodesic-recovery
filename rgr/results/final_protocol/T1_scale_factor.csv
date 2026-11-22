@@ -1,5 +1,0 @@
-Dataset,Training masks,Test masks,"k, training and test masks (paper)","k, training masks alone","Distance limit and path window (px), paper","Same, training masks alone",Factors differ beyond 0.00005
-DRIVE,20,20,1.0000,1.0000,8,8,no
-CHASE_DB1,20,8,1.7030,1.7033,14,14,yes
-STARE,10,10,1.1861,1.1861,9,9,no
-FIVES,100,40,3.7284,3.7295,30,30,yes
